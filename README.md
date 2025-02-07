@@ -7,3 +7,5 @@ Git 저장소 초기화하기
 local, 원격 rep 사용하기.
 
 push, pull 명령어 사용하기.
+
+git과 친해져보자
